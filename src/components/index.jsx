@@ -8,5 +8,6 @@ import WelcomeComponent from './Home/WelcomeComponent';
 import Spinner from './Spinner';
 import Subscribe from './subscribe';
 import UserContext from './UserContext';
+import DonateUs from './Home/DonateUs';
 
-export {Carousel, Footer,Header, AboutUs, HelpUs, HowContainer, WelcomeComponent, Spinner, Subscribe, UserContext};
+export {Carousel, Footer,Header, AboutUs, HelpUs, HowContainer, WelcomeComponent, Spinner, Subscribe, UserContext, DonateUs};
